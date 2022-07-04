@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa367db7-11c4-4039-97db-a640d21c093f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bloc_tutorial/lib/cubit_counter.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bloc_tutorial/lib/main-bloc.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bloc_tutorial/lib/send_boat_stream.dart" afterDir="false" />
+    <list default="true" id="aa367db7-11c4-4039-97db-a640d21c093f" name="Default Changelist" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/../correckrdapp/assets/icons/front_doc.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../correckrdapp/assets/images/correckrd_logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/constants/all_controller_binding.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/constants/all_controller_binding.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/constants/app_font.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/constants/app_strings.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/constants/controllers.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/constants/controllers.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/constants/style.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/constants/style.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/customs/address_search.dart" beforeDir="false" />
@@ -181,9 +176,6 @@
       <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/widgets/size_helpers.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/widgets/size_helpers.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../e360" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../e360_vendor" beforeDir="false" afterPath="$PROJECT_DIR$/../e360_vendor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/counter_cubit/counter_cubit_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/counter_cubit/counter_cubit_test.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../flutter_web_tutorial1" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_web_tutorial1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/.metadata" beforeDir="false" />
@@ -271,7 +263,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2BRlF9LnWoS64CctVOyqDzjJ8Rt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -326,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656958262628</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1656958946559</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656958946559</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
