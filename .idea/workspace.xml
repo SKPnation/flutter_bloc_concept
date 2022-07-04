@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa367db7-11c4-4039-97db-a640d21c093f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bloc_tutorial/lib/cubit_counter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bloc_tutorial/lib/main-bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bloc_tutorial/lib/send_boat_stream.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/assets/icons/front_doc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/assets/images/correckrd_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/constants/all_controller_binding.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/constants/all_controller_binding.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/constants/app_font.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/constants/app_strings.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/constants/controllers.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/constants/controllers.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/constants/style.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/constants/style.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/customs/address_search.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/customs/custom_loader.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/customs/custom_snackbar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/category_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/category_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/complete_profile_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/complete_profile_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/dashboard_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/dashboard_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/home_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/introduce_mentor_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/introduce_mentor_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/location_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/login_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/login_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/onboarding_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/onboarding_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/profile_setup_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/profile_setup_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/recommendation_request_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/recommendation_request_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/recording_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/recording_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/registration_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/registration_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/splash_screen_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/getx_controllers/splash_screen_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/models/category.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/models/category.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/models/job_seeker.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/models/job_seeker.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/models/notification.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/models/notification.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/models/recommendation_request.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/models/recommendation_request.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/models/shift.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/models/shift.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/models/skill.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/models/skill.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/award_description_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/category_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/category_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/community_engagement_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/education_description_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/employment_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/hobbies_description_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/member_registration_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/personal_achievement_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/professional_dev_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/recommendation_request_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/rehab_description_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/skill_description_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/awards/award_description_one.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/awards/award_description_one.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/awards/award_description_three.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/awards/award_description_two.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/awards/award_description_two.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/community/community_engagement_one.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/community/community_engagement_one.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/community/community_engagement_three.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/community/community_engagement_three.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/community/community_engagement_two.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/community/community_engagement_two.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/education/education_description_one.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/education/education_description_one.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/education/education_description_three.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/education/education_description_two.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/education/education_description_two.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/employer_view_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/employment/emploiment_description_four.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/employment/employment_decription_one.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/employment/employment_decription_one.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/employment/employment_description_three.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/employment/employment_description_two.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/employment/employment_description_two.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/family/member_registration_one.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/family/member_registration_one.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/hobbies/hobbies_description_one.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/hobbies/hobbies_description_three.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/hobbies/hobbies_description_two.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/network_category_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/network_category_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/professional_dev_courses_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/professional_dev_courses_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/recommendation_request_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/rehab/rehab_description_one.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/rehab/rehab_description_one.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/rehab/rehab_description_three.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/rehab/rehab_description_two.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/rehab/rehab_description_two.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/skills/add_skill_category_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/skills/skiil_description_one.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/skills/skiil_description_two.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/skills/skill_description_three.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/training_category_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/verification/employer_view_tab.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/verification/profile_verification_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/tabs/verification/profile_view_tab.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/add_category_dialog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/add_category_dialog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/category_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/category_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/choose_category_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/choose_category_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/choose_hobby_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/choose_hobby_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/choose_skill_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/choose_skill_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/edit_chosen_skill_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/edit_chosen_skill_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/edit_profile_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/edit_profile_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/engagement_item_three.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/engagement_item_two.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/hobby_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/hobby_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/professional_dev_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/professional_dev_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/profile_verification_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/profile_verification_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/reset_recomendation_dialog.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/skill_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/skill_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/suggested_category_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/suggested_category_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/urgently_hiring_badge.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/categories/widgets/urgently_hiring_badge.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/camera_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/camera_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/camera_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/camera_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/complete_profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/complete_profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/modals/AttachDescriptionModal.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/modals/AttachDescriptionModal.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/modals/attachImageModal.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/modals/attachImageModal.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/modals/recorder_tip_dialog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/modals/recorder_tip_dialog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/tabs/complete_profile_one.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/tabs/complete_profile_one.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/tabs/complete_profile_two.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/tabs/complete_profile_two.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/voice_recording_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/voice_recording_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/widgets/complete_profile_fields.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/widgets/complete_profile_fields.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/widgets/complete_profile_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/widgets/complete_profile_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/widgets/icon_generator_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/widgets/icon_generator_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/widgets/recorded_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/widgets/recorded_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/widgets/recorder_button_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/widgets/recorder_icon_generator_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/widgets/recorder_icon_generator_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/widgets/video_view.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/complete_profile/widgets/visual_component.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/dashboard/dashboard.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/home/home.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/introduce_mentor/introduce_mentor.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/introduce_mentor/web_view.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/login/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/login/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/login/widgets/form_fields.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/login/widgets/form_fields.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/onboarding/onboarding_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/onboarding/onboarding_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/intro_setup_employer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/preview_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/preview_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/profile_setup_employer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/profile_setup_employer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/intro_page_five.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/intro_page_four.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/intro_page_one.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/intro_page_six.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/intro_page_three.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/intro_page_two.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_eight.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_eight.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_eleven.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_five.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_five.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_four.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_four.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_nine.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_nine.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_one.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_one.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_seven.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_seven.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_six.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_six.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_ten.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_ten.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_three.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_three.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_two.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/tabs/profile_setup_two.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/about_job_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/about_job_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/add_hint_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/add_hint_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/application_question_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/application_question_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/benefit_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/benefit_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/choose_shift_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/edit_field_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/edit_field_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/field_label_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/field_label_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/illustration_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/illustration_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/options_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/options_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/shift_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/slider_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/employer/widgets/slider_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/modals/attachDocModal.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/profile_setup.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/profile_setup.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/tabs/id_upload_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/tabs/select_agency_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/tabs/select_agent_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/tabs/select_industry_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/tabs/select_interests_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/tabs/select_neighbourhood_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/widgets/agency_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/widgets/agent_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/widgets/form_fields.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/widgets/id_upload_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/widgets/industry_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/profile_setup/widgets/interest_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/registration/registration_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/registration/registration_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/registration/tabs/registration_column_one.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/registration/tabs/registration_column_one.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/registration/tabs/registration_column_two.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/registration/tabs/registration_column_two.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/registration/widgets/password_strength_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/registration/widgets/password_strength_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/registration/widgets/registration_form_fields.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/registration/widgets/registration_form_fields.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/modules/splash_screen/splash_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/modules/splash_screen/splash_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/routes/app_pages.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/routes/app_pages.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/routes/app_routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/routes/app_routes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/service/place_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/widgets/custom_app_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/widgets/custom_app_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/widgets/custom_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/widgets/custom_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/widgets/custom_form_field.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/widgets/custom_form_field.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/widgets/custom_snackbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/widgets/custom_snackbar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/widgets/responsive_safe_area.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/widgets/responsive_safe_area.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../correckrdapp/lib/widgets/size_helpers.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../correckrdapp/lib/widgets/size_helpers.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e360" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e360_vendor" beforeDir="false" afterPath="$PROJECT_DIR$/../e360_vendor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/counter_cubit/counter_cubit_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/counter_cubit/counter_cubit_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_web_tutorial1" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_web_tutorial1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/src/main/kotlin/com/sli/light_dark_theme_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/lib/components/z_animated_toggle.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/lib/model_providers/theme_color.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/lib/model_providers/theme_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/lib/pages/home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../light_dark_theme_app/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tranquil_life" beforeDir="false" afterPath="$PROJECT_DIR$/../tranquil_life" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2BRlF9LnWoS64CctVOyqDzjJ8Rt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/cubit" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa367db7-11c4-4039-97db-a640d21c093f" name="Default Changelist" comment="" />
+      <created>1656876671598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656876671598</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1656957897566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656957897566</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1656958000697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656958000697</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1656958262628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656958262628</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="245" y="186" key="#PSD" timestamp="1656958225418">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="245" y="186" key="#PSD/0.0.1440.900@0.0.1440.900" timestamp="1656958225418" />
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1656877298462">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1656877298462" />
+    <state x="268" y="25" key="CommitChangelistDialog2" timestamp="1656958261291">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="268" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1656958261291" />
+    <state x="545" y="351" key="Github.ShareDialog" timestamp="1656958128548">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="545" y="351" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1656958128548" />
+    <state x="221" y="86" key="SettingsEditor" timestamp="1656958237541">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1656958237541" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1656958266076">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1656958266076" />
+    <state x="503" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1656958027180">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1656958027179" />
+  </component>
+</project>
